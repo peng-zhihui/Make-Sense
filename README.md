@@ -4,9 +4,8 @@
 
 <h1 align="center">makesense.ai</h1>
 
-<p align="center"> 
-    <img width="600" src=".//public/ico/main-image-dark_alter.png" alt="Logo">
-</p>
+![](/public/ico/main-image-dark_alter.png)
+
 
 ## Description
 
@@ -20,9 +19,7 @@ Andrew Ng
 
 ## Sneak Peek
 
-<p align="center"> 
-    <img width="1000" src=".//examples/demo-base.gif" alt="alfa-demo">
-</p>
+![](/examples/demo-base.gif)
 
 **Figure 1.** Basic version of the application - without AI support
 
@@ -35,16 +32,11 @@ Andrew Ng
 
 In the future, we also plan to add, among other things, models that classify photos, detect characteristic features of faces as well as whole faces. The engine that drives our AI functionalities is [TensorFlow.js][10] - JS version of the most popular framework for training neural networks. This choice allows us not only to speed up your work but also to care about the privacy of your data, because unlike with other commercial and open source tools, your photos do not have to be transferred to the server. This time AI comes to your device!
 
-<p align="center"> 
-    <img width="1000" src=".//examples/demo-ssd.gif" alt="ai-demo">
-</p>
+![](/examples/demo-ssd.gif)
 
 **Figure 2.** SSD model - allows you to detect multiple objects, speeding up the bbox labeling process
 
-
-<p align="center"> 
-    <img width="1000" src=".//examples/demo-posenet.gif" alt="ai-demo">
-</p>
+![](/examples/demo-posenet.gif)
 
 **Figure 3.** PoseNet model - allows you to detect people's poses in photos, automating point labeling in some usecases
 
@@ -140,9 +132,8 @@ Our application is being actively developed. Check out our plans for the near fu
 
 If you are just starting your adventure with deep learning and would like to learn and create something cool along the way, [makesense.ai][1] can help you with that. Leverage our bounding box labeling functionality to prepare a data set and use it to train your first state-of-the-art object detection model. Follow [instructions][12] and [examples][13] but most importantly, free your creativity.
 
-<p align="center"> 
-    <img width="800" src=".//examples/object_detection_basketball.gif" alt="Object detection tutorial">
-</p>
+![](/examples/object_detection_basketball.gif)
+
 
 **Figure 4.** Detection of players moving around the basketball court, based on <a href="https://research.google.com/youtube8m/">YouTube-8M</a> dataset.
 
